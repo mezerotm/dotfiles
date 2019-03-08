@@ -62,7 +62,7 @@ poetry run invoke profile ACTION PROFILE
 | -i, --install | Install the profile |
 |---------------|---------------------|
 | --remove      | Remove the profile  |
-### PROFILE
+#### PROFILE
 These are located in the [profiles folder](./profiles) they are referenced by folder name.
 
 ### THEME
