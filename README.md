@@ -47,15 +47,11 @@ Config files are dotbot yaml files which contain application specific configurat
 #### SYNOPSIS
 poetry run invoke config ACTION CONFIG1[,CONFIG2,...[,CONFIGN]]
 #### ACTION
-  -i, --install
-
-  Install the config(s)
-
-  --remove
-
-  Remove the config(s)
+| -i, --install | Install the config(s) |
+|---------------|-----------------------|
+| --remove      | Remove the config(s)  |
 #### CONFIG
-These are located in the [config folder](./config) they are referenced by folder name.
+These are located in the [configs folder](./configs) they are referenced by folder name.
 
 ### PROFILE
 #### DESCRIPTION
@@ -63,15 +59,11 @@ Profiles are collections of configs which are usually grouped together. You can 
 #### SYNOPSIS
 poetry run invoke profile ACTION PROFILE
 #### ACTION
--i, --install
-
-Install the profile
-
---remove
-
-Remove the profile
+| -i, --install | Install the profile |
+|---------------|---------------------|
+| --remove      | Remove the profile  |
 ### PROFILE
-These are located in the [profile folder](./profile) they are referenced by folder name.
+These are located in the [profiles folder](./profiles) they are referenced by folder name.
 
 ### THEME
 #### DESCRIPTION
@@ -79,15 +71,11 @@ Themes are special. Each distribution has the ability to support multiple enviro
 #### SYNOPSIS
 poetry run invoke theme ACTION THEME
 #### ACTION
--i, --install
-
-Install the theme
-
---remove
-
-Remove the theme
+| -i, --install | Install the theme |
+|---------------|-------------------|
+| --remove      | Remove the theme  |
 #### THEME
-These are located in the [theme folder](./theme) they are referenced by folder name.
+These are located in the [themes folder](./themes) they are referenced by folder name.
 
 ## Examples
 
