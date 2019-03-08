@@ -3,7 +3,7 @@
 ### You are in the wrong branch, there are no themes here.
 
 ```
-        ____________________________
+         ____________________________
         !\_________________________/!\
         !!                         !! \
         !!                         !!  \
@@ -17,9 +17,9 @@
         !/_________________________\!/
           __\_________________/__/!_
          !_______________________!/
-        ________________________
+         ________________________
         /oooo  oooo  oooo  oooo /!
-        /ooooooooooooooooooooooo/ /
-        /ooooooooooooooooooooooo/ /
-        /C=_____________________/_/
+       /ooooooooooooooooooooooo/ /
+      /ooooooooooooooooooooooo/ /
+     /C=_____________________/_/
 ```
